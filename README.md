@@ -1,2 +1,2 @@
-# idenfyDocRecognition
-Android iDenfy Document Recognition SDK
+# idenfyBlurGlareDetection
+Android iDenfy Blur Glare Detection SDK
