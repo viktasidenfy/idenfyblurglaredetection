@@ -22,8 +22,8 @@
    </plugins>
 </build>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>idenfyDocRecognition</groupId>
-  <artifactId>com.idenfy.idenfyDocRecognition</artifactId>
+  <groupId>idenfyBlurGlareDetection</groupId>
+  <artifactId>com.idenfy.idenfyBlurGlareDetection</artifactId>
   <version>8.5.3</version>
   <packaging>aar</packaging>
   <dependencies>
